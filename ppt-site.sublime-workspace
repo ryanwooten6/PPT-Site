@@ -1,0 +1,531 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"newslet",
+				"newsletterSignup"
+			],
+			[
+				"head",
+				"headerNavArea"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"H",
+				"Hawaii"
+			],
+			[
+				"form_",
+				"form_label"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"border-top-",
+				"border-top-width"
+			],
+			[
+				"container",
+				"containerWidth"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"contain",
+				"containerWidth"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fnt",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"nav",
+				"navPadding"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"main",
+				"main_menu"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"site",
+				"site_name"
+			],
+			[
+				"div",
+				"DIV	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"form",
+				"FORM	Tag"
+			],
+			[
+				"news",
+				"newst_item"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"fucn",
+				"function"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"tit",
+				"title	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ssl",
+				"Set Syntax: LESS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inall",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/UniServer/www/pptsite/robots.txt",
+		"/C/UniServer/www/Koken_Installer/koken/storage/themes/mytheme/info.json",
+		"/C/UniServer/www/pptsite/index.html",
+		"/C/Users/Ryan/Downloads/robots.txt",
+		"/C/Users/Ryan/AppData/Local/Temp/Temp1_Action-Man-fontfacekit.zip/web fonts/actionman_bold_macroman/stylesheet.css",
+		"/C/UniServer/www/concrete5/web/concrete/config/localization.php",
+		"/C/UniServer/www/concrete5/web/concrete/core/helpers/html/v2.php",
+		"/C/UniServer/www/concrete5/web/concrete/core/helpers/html.php",
+		"/C/UniServer/www/concrete5/web/concrete/css/ccm_app/components.less",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/UniServer/www/Koken_Installer/Koken_Installer/koken/index.php",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/UniServer/www/concrete5/web/concrete/css/ccm_app/build/ccm.app.less",
+		"/C/UniServer/www/concrete5/web/concrete/config/banned_words.txt",
+		"/C/Users/Ryan/Downloads/bootstrap-master/bootstrap-master/composer.json",
+		"/C/Users/Ryan/Downloads/bootstrap-master/bootstrap-master/Gruntfile.js",
+		"/C/UniServer/www/phantom.js",
+		"/C/Users/Ryan/Downloads/bootstrap-master/bootstrap-master/browserstack.json",
+		"/C/Users/Ryan/Downloads/bootstrap-master/bootstrap-master/js/tests/unit/affix.js",
+		"/C/UniServer/www/concrete5/web/concrete/models/attribute/types/address/country_state.js",
+		"/C/UniServer/tmp/redirect.html",
+		"/C/Users/Ryan/Downloads/bootstrap-master/bootstrap-master/dist/js/bootstrap.js",
+		"/C/Program Files/nodejs/node_modules/npm/html/doc/cli/npm-config.html",
+		"/C/Users/Ryan/Documents/gitignore_global.txt",
+		"/C/Users/Ryan/Downloads/phantomjs-1.9.1-windows/phantomjs-1.9.1-windows/README.md",
+		"/C/UniServer/www/tlt/about.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp33408/public_html/about.php",
+		"/C/Program Files (x86)/Google/Chrome/Application/master_preferences",
+		"/C/Users/Ryan/AppData/Local/Temp/scp25743/public_html/menu.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp25908/public_html/menu-dropdowns.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp25639/public_html/policies.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp26460/public_html/season.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp26119/public_html/secondstage.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp27743/public_html/test.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp28952/public_html/ticket-purchase-agreement.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp29685/public_html/TLTraisingmoneyforlocalnonprofits.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp29223/public_html/ticket-purchase-agreement.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp29559/public_html/UpcomingAuditions.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp59865/public_html/robots.txt",
+		"/C/Users/Ryan/AppData/Local/Temp/scp18935/public_html/education-summer.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp19275/public_html/Experience253.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp19822/public_html/features.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp19518/public_html/googleda7165bc59ff6551.html",
+		"/C/Users/Ryan/AppData/Local/Temp/scp00647/public_html/index.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp21832/public_html/lastseason.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp23829/public_html/LateNight.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp23340/public_html/LateNight.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp24556/public_html/Mainstage.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp25970/public_html/Mainstage.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp17321/public_html/education-signup.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp17664/public_html/education-signup.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp16835/public_html/education-school.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp11868/public_html/education-classes.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp14643/public_html/education-school.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp16385/public_html/education-school.php",
+		"/C/Users/Ryan/AppData/Local/Temp/scp12998/public_html/education-schedule.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/default.php",
+		"/C/UniServer/www/bisonmanagement/tioga-apartments/index.html",
+		"/C/Users/Ryan/Downloads/concrete5.6.1.2/concrete5.6.1.2/config/site.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/concrete/themes/greek_yogurt/default.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/concrete/themes/greek_yogurt/elements/header.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/concrete/themes/dark_chocolate/elements/footer.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/elements/header.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/home.php",
+		"/C/UniServer/www/bisonmanagement/tioga-apartments/floor-plans/index.html",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/elements/footer.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/assets/css/oneColFixCtr.css",
+		"/C/Users/Ryan/AppData/Local/Temp/fz3temp-2/site.php",
+		"/C/Users/Ryan/Downloads/workit/workit/full-width.html",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/footer.php",
+		"/C/UniServer/www/tiogaaptsconcrete5/themes/bisonproperties/description.txt",
+		"/C/UniServer/www/tiogaaptsconcrete5/concrete/themes/greek_yogurt/description.txt",
+		"/C/UniServer/www/concrete5.6.1.2/INSTALL",
+		"/C/UniServer/www/concrete5/themes/Darkness/view.php",
+		"/C/UniServer/www/concrete5/config/site_theme_paths.php",
+		"/C/UniServer/www/concrete5/config/site.php",
+		"/C/UniServer/www/concrete5/INSTALL",
+		"/C/UniServer/www/concrete5/themes/Darkness/styles/forms.css",
+		"/C/UniServer/www/concrete5/themes/Darkness/styles/tables.css",
+		"/C/UniServer/www/concrete5/themes/Darkness/styles/layout.css",
+		"/C/UniServer/www/concrete5/themes/Darkness/styles/navi.css",
+		"/C/UniServer/www/concrete5/themes/Darkness/description.txt",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/html.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/bisonmanagement.info",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/node.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/node--1.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/page.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/less/main.less",
+		"/C/UniServer/www/bisonmanagement/tioga-townhomes/application/index.html",
+		"/C/UniServer/www/concrete5/themes/MyTheme/default.php",
+		"/C/UniServer/www/concrete5/themes/MyTheme/styles/layout.css",
+		"/C/Users/Ryan/Downloads/workit/workit/scripts/jquery-browsercheck.js",
+		"/C/UniServer/www/concrete5/themes/MyTheme/description.txt",
+		"/C/UniServer/www/concrete5/themes/MyTheme/New Text Document.txt",
+		"/C/UniServer/www/bisonmanagement/tioga-townhomes/residential-lease/index.html",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/UniServer/www/mvp-repo/application/views/user/personal_info.php",
+		"/C/UniServer/www/mvp-repo/application/views/templates/header.php",
+		"/C/UniServer/www/mvp-repo/application/views/templates/footer.php",
+		"/C/UniServer/www/mvp-repo/application/views/templates/application.css",
+		"/C/UniServer/www/mvp-repo/application/views/welcome_message.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/page--front.tpl.php",
+		"/C/UniServer/www/bisondrupal/modules/system/page.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/less/variables.less",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/less/bisonmanagement.less",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/zen-7.x-5.1/zen/templates/page.tpl.php",
+		"/C/UniServer/www/bisonmanagement/bisonmanagementteam/oneColFixCtr.css",
+		"/C/UniServer/www/bisonmanagement/bisonmanagementteam/index.html",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/css/main.css",
+		"/C/UniServer/www/bisondrupal/sites/all/libraries/tinymce/jscripts/tiny_mce/tiny_mce.js",
+		"/C/UniServer/www/bisondrupal/sites/all/libraries/tinymce/jscripts/tiny_mce/license.txt",
+		"/C/Users/Ryan/AppData/Local/Temp/scp57150/tioga-townhomes/residents/index.html",
+		"/C/Users/Ryan/AppData/Local/Temp/scp55689/tioga-townhomes/residents/index.html",
+		"/C/Users/Ryan/AppData/Local/Temp/scp51904/tioga-townhomes/residents/index.html",
+		"/C/Users/Ryan/AppData/Local/Temp/scp54260/tioga-townhomes/residents/index.html",
+		"/C/UniServer/www/bisondrupal/sites/all/themes/bisonmanagementteam/bisonmanagementteam.info",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/zen-7.x-5.1/zen/templates/html.tpl.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/zen-7.x-5.1/zen/STARTERKIT/templates/README.txt",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/zen-7.x-5.1/zen/STARTERKIT/template.php",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/themes/bisonmanagement/page.tpl.php.old",
+		"/C/UniServer/www/bisondrupal/sites/all/themes/bisonmanagementteam/html.tpl.php",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/mixins.less",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/variables.less",
+		"/C/UniServer/www/bisondrupal/sites/bisonmanagementteam/less/bisonmanagement.less.css",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/bootstrap.less",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/sprites.less",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/utilities.less",
+		"/C/Users/Ryan/Downloads/twitter-bootstrap-v2.3.2-1-g60b202d/twitter-bootstrap-60b202d/less/media.less"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"composer",
+			"span",
+			"footbox2",
+			"footbox1",
+			"ac",
+			"active",
+			"footer",
+			"width",
+			"font-size",
+			"font",
+			"serif",
+			"his",
+			"his/her",
+			"clear",
+			"clea",
+			"active_group",
+			"local",
+			"default",
+			"footer",
+			"Tioga",
+			"https://tioga-apartments.com",
+			"contact",
+			"https://tioga-apartments.com/",
+			"tioga-logo.png",
+			"Tioga",
+			"http://www.tiogandapartments.com/",
+			"https://tioga-apartments.com/",
+			"ND",
+			"https://tioga-apartments.com/",
+			"Tioga",
+			"Stanley",
+			"https://tioga-apartments.com/",
+			"Tioga",
+			"ND",
+			"Tioga",
+			"http://www.tiogandapartments.com/",
+			"https://tioga-apartments.com/",
+			"footer",
+			"foot",
+			"footer",
+			"tabs",
+			"line",
+			"new_line",
+			"bracket"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Sidney",
+			"http://sidneymtapartments.com/",
+			"MT",
+			"http://sidneymtapartments.com/",
+			"Sidney",
+			"http://sidneymtapartments.com/",
+			"http://sidneymtapartments.com",
+			"Sidney",
+			"MT",
+			"Sidney",
+			"http://sidneymtapartments.com/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"data",
+				"application/config/database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
